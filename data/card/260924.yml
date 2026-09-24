@@ -134,4 +134,3 @@ total:
 ---
 
 ---
-{"id":136309872,"author":{"login":"happyapplehorse","id":80760121,"node_id":"MDQ6VXNlcjgwNzYwMTIx","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOKb_97c4IH-xw","tag_name":"v0.5.4","target_commitish":"main","name":"v0.5.4","draft":false,"immutable":false,"prerelease":false,"created_at":"2024-01-09T10:49:53Z","updated_at":"2024-01-09T10:54:50Z","published_at":"2024-01-09T10:54:50Z","assets":[],"body":"## [0.5.4] - 2024-01-09\r\n\r\n### Fixed\r\n\r\n- Fixed the issue of bebing unable to rename conversation on Windows\r\n- Switch from text-davinci-003 to using gpt-3.5-turbo-instruct\r\n- When choosing a file path, the default is the root directory"}
